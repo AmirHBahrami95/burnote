@@ -5,6 +5,7 @@ Burn your notes (digitally) on your pc. it gives me satisfaction, so you should 
 If you are using Gnu/Linux:
 
 `	
+
 	make
  
 	cd /bin
@@ -21,6 +22,7 @@ If you are using Gnu/Linux:
 If you are using windows:
 
 `
+
 	Install Gnu/Linux
  
 	Enjoy Life as it's meant to be
